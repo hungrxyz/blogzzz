@@ -29,15 +29,33 @@ categories: Meetups With Talks and Collaborative programming meetups.
 
 Meetups with talks:
 - Brooklyn Swift Developers
+    Hosted around different startups in Brooklyn.
+    Very insightful talks from really experienced people in the field like
+    Veronica Ray, Tamar Nachmany, Soroush Khanlou and more...
 - Turn To Tech
+    I only attended one meetup event from Turn To Tech. Organization of the
+    of the event was a bit weak, but the theme was interesting.
 - NYC Apps
+    Event where apps are presented by It's founders.
 - Tech After Hours
+    This event is hosted by the same organizer as
+    SQL NYC, The NoSQL & NewSQL Database Meetup. Great talks about new uprising
+    technologies. They als otend to give away a lot of freebies at each event.
 - SQL NYC, The NoSQL & NewSQL Database Meetup
+    All about the data
 - iOSoho - New York City's largest iOS Engineer Meetup
+    This group is exclusively for iOS Developers (They check if you have any
+    iOS experience when you try to join the group). Atmosphere at this events is
+    amazing. High Quality talk and great networking session at the end.
 - Tech in Motion: New York City
-- TechHub NYC
+    I only attended one event. It was a panel around Internet of Things with
+    with influential people in the industry.
 - Code Driven NYC: Software Engineering and Development
+    All about the code
 - The Brooklyn iOS Developer Meetup
+
+// Note for Day 3: Look at the description on the Meetup page and only write
+   write about your impressions.
 
 Collaborative meetups:
 - NYC iOS Study Group
@@ -51,3 +69,4 @@ Other meetups:
 - In Good Company
 - Byte Academy: FinTech, Data Science, Python Coding Bootcamp
 - HackerNest NYC Tech Socials
+- TechHub NYC
