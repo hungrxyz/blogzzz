@@ -1,84 +1,78 @@
-Over the course of 84 days that I spent in New York City, I Attended 49 meetup
-event from 19 different Meetup groups.
+Exploring the Berlin tech scene for 6 months didn't fill the void of living in
+a fast paced environment filled with tech events. So I decided to take a leap
+and see what's going on in New York City. I didn't expect much more tech related
+events than in Berlin mainly because NYC is not really known as a tech city, but
+as it turns out there's quite a lot going on...
 
-1. NYC iOS Study Group [http://www.meetup.com/nyc-ios-study-group/events/222362397/]
-2. Cocoapods NYC
-3. Brooklyn Swift Developers
-4. Turn To Tech
-5. The Startup Station
-6. In Good Company
-7. HackerNest NYC Tech Socials
-8. NYC Apps
-9. Tech After Hours NYC
-10. Byte Academy: FinTech, Data Science, Python Coding Bootcamp
-11. iOS Side Projects
-12. SQL NYC, The NoSQL & NewSQL Database Meetup
-13. iOSoho - New York City's largest iOS Engineer Meetup
-14. Tech in Motion: New York City
-15. GeekMeet - NYC
-16. TechHub NYC
-17. Beginner Programmers
-18. Code Driven NYC: Software Engineering and Development
-19. The Brooklyn iOS Developer Meetup
+Keep in mind that this list is highly leaned towards the iOS Community.
 
-I was surprised how big the tech scene in NYC is. I thought NYC was all about
-fashions, finance and movies.
+Over the course of 84 days, I Attended 49 events from 19 different Meetup
+groups.
 
-To better compare all the meetups I will break them down into two different
-categories: Meetups With Talks and Collaborative programming meetups.
+To better compare all the groups I will break them down into 3 different
+categories:
 
 Meetups with talks:
 - Brooklyn Swift Developers
-    Hosted around different startups in Brooklyn.
-    Very insightful talks from really experienced people in the field like
-    Veronica Ray, Tamar Nachmany, Soroush Khanlou and more...
+    As it says in the name, events take place in Brooklyn hosted by startups
+    like Kikstarter or Etsy. And it's all about Apple's new programming language
+    Swift. All the talks that I saw were very insightful and interesting with a
+    high quality rate.
 - Turn To Tech
-    I only attended one meetup event from Turn To Tech. Organization of the
-    of the event was a bit weak, but the theme was interesting.
+    Hosted in Turn To Tech offices in Flatiron where they tech they courses for
+    iOS and Android development, check them out at: turntotech.com.
 - NYC Apps
-    Event where apps are presented by It's founders.
+    "New York's Most Innovative Mobile Technology Community" indeed, you can
+    expect high quality talks and presentations. Hosted & sponsored by different
+    copanies around NYC and organization is 💯.
 - Tech After Hours
-    This event is hosted by the same organizer as
-    SQL NYC, The NoSQL & NewSQL Database Meetup. Great talks about new uprising
-    technologies. They als otend to give away a lot of freebies at each event.
+    The organizer, Eric David Benari, makes almost a show out of this events and
+    usually draws a huge crowd. Talks are usualy about new and uprising
+    technologies. Usually hosted in ThoughtWorks in mid-town.
 - SQL NYC, The NoSQL & NewSQL Database Meetup
-    All about the data
+    Organized also by Eric David Benari. Come 15 minutes before the start if you
+    want to get a seat.
 - iOSoho - New York City's largest iOS Engineer Meetup
     This group is exclusively for iOS Developers (They check if you have any
     iOS experience when you try to join the group). Atmosphere at this events is
-    amazing. High Quality talk and great networking session at the end.
+    amazing with high quality talks and networking session at the end.
 - Tech in Motion: New York City
-    I only attended one event. It was a panel around Internet of Things with
-    with influential people in the industry.
+    This is a more commercial high end group that does events on a larger scale.
+    Quality content presented by more influential individuals in the industry.
 - Code Driven NYC: Software Engineering and Development
-    All about the code
+    "An event about building great software, exclusively for developers to learn
+    & get inspired" says on their page. It's not only about the software though,
+    I learned a lot about team management and team motivation from some of the
+    talks.
 - The Brooklyn iOS Developer Meetup
+    Apple centric events with short talks about iOS, tvOS, watchOS, build
+    presentations and more. Great atmosphere and organization. Hosted in
+    Brooklyn
 
-Collaborative meetups:
+Hands-on meetups:
 - NYC iOS Study Group
-    Organized by Marc who has about 20 years of experience working at IBM.
-    Meetups take place downtown in Flatiron school offices. Runs monthly.
-    This is a great place to come with beginner questions, Marc is eager to
-    help you out and help you get started.
+    Organized by Michael Batal. Events mainly take place in the Financial
+    District. This is a great place to come with beginner questions, Michael is
+    a Senior iOS Developer at IBM and would like to help you out.
 - Cocoapods NYC
-    This is a very special group organized by Orta Therox and Ash Furrow and it
-    runs every Saturday. Hosted in the beautiful Artsy HQ on Broadway. Just
-    being around guys like @orta, @ashfurrow, Dave and many other great
-    engineers is a special experience. Not to mention if you need any help, they
-    will do their best to help you out. It doesn't even have to be programming
-    related, they can help you start a blog, give advice on how to start working
-    to achieve certain goals.
+    This is a very special group organized by Orta Therox and Ash Furrow every
+    Saturday. Hosted in the beautiful Artsy HQ on Broadway. Just being around
+    guys like @orta, @ashfurrow, Dave and many other great engineers is a
+    special experience. Not to mention if you need any help, they will do their
+    best to help you out. It doesn't even have to be programming related, they
+    can help you start a blog, give advice on how to start working to achieve
+    certain goals.
 - iOS Side Projects
     Like the description says "Get 1-on-1 help with your apps!". If you're
     experiencing problems with your app and are looking for advice or just a
     second opinion, this is the event to go to.
 - GeekMeet - NYC
     As the name says, it's for geeks. Hosted in Financial District. This is a
-    new group where geeks all of a kind come together and hack stuff together.
+    new group where "geeks meet" and hack something together.
 - Beginner Programmers
     Mid-town based group organized by ... and ... This is a great event to
-    attend to if you are thinking of starting to code and don't really know how
-    to start.
+    attend to if you are thinking of starting to code but need some advice or
+    help to get you going.
 
 Other Meetup Groups:
 - The Startup Station
@@ -88,8 +82,8 @@ Other Meetup Groups:
 - In Good Company
     Every Friday morning the the Coffee Foundry entrepreneurs and
     wantrepreneurs gather and listen to an open interview with one of the
-    founders of a successful startup/bussiness. Always great networking
-    opportunity at the end.
+    founders of a successful startup/bussiness. Always great networking after
+    also.
 - Byte Academy: FinTech, Data Science, Python Coding Bootcamp
     Academy in Mid-town where a bunch of people learn how to code, business
     market, finance. They also have talks from influential people in the market
@@ -101,8 +95,8 @@ Other Meetup Groups:
     Great for early founders who need advise on what approach to take towards
     starting a bussiness in the US.
 
-If I would make a list of Top 5 Tech Meetups that you have to go to in NYC, it
-would be something like this:
+Of all of the above groups, I would recommend to go on at lest one Meetup event
+of those five groups:
 
   - iOSoho - New York City's largest iOS Engineer Meetup
   - Cocoapods NYC
@@ -110,12 +104,19 @@ would be something like this:
   - Brooklyn Swift Developers
   - HackerNest NYC Tech Socials
 
-Pizza seems to be a no brainer if have a meetup nowadays and oh yes, there's
-a lot of pizza on these meetups. So you might wonder where would you go if you
-only wanted to get some free pizza.
+Pizza seems to be a key part of every tech meetup nowadays so why not list
+where one can get a good slice of it?!
 
   - Cocoapods NYC
   - iOSoho - New York City's largest iOS Engineer Meetup
   - iOS Side Projects (If hosted in AMEX)
   - NYC iOS Study Group
-  - NYC Apps    
+  - NYC Apps
+
+In summary: Even though that the tech scene in NYC is in the shadow of finance,
+fashion and movies it's strong compared to the thrive that is happening in
+Berlin.
+
+I hope I provided some useful information and I'd be glad to hear your feedback.
+
+Thank you!
