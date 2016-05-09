@@ -4,3 +4,35 @@ There's a lot of to-do list on the App Store and I think there's always room for
 more. I'm having a lot of problems getting things done just because I feel like
 whatever I do or create is not worth anything. I love creating though, and iOS
 Development is what allows me to transform simple into reality very easily.
+
+App needs a story. What is the story behind this app?
+
+I'm a very self-conscious person with big ambitions and dreams. These two
+characteristics don't go hand in hand well so I have to improvise a lot to get
+where I want to be. One thing I do is I make apps to help me out with that.
+To-day is one of them and after using it for a couple of months (while building
+it) I decided to release it into the public and help others too. This is a
+special moment for me because I don't approve of a lot of things I make.
+
+How it helps me: I tried many to-do lists and they just don't seem to work for
+me so I took the initial concept of a to-do list and started thinking of how to
+make it work for me. First thing that came up was that once I put a task on the
+list, it just stays there until I mark it as complete or delete it.
+
+I didn't build To-day to not forget what to do, I built it to help get things
+done today. I tend to procrastinate a lot just because whenever I want to start
+working on something I get the feeling that it's gonna be irrelevant. Reading
+through one of the countless articles about how to fight procrastination I tried
+experimenting with writing down what I need to do since it should increase the
+chance of getting it done because you visualize it. So I took that approach and
+started building an app around the idea of writing down tasks you need to do
+and complete them.
+
+Next thing that was important is I don't want to have my list cluttered the next
+day with all the tasks from yesterday and before that. That's where the idea
+for reseting the list every day came from, and because I tend to work though the
+night a lot I made the reset time to 5 AM. This also presented a motive for
+completing the task today because tomorrow it will be gone. And since I hate the
+feeling of setting something for the day and not completing it it motivates me
+to complete it before the list resets and I can go to sleep with a good feeling
+because I did everything I set out to do today.
