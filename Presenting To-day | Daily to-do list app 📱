@@ -3,7 +3,7 @@ Presenting To-day | Daily to-do list app 📱
 There's a lot of to-do list on the App Store and I think there's always room for
 more. I'm having a lot of problems getting things done just because I feel like
 whatever I do or create is not worth anything. I love creating though, and iOS
-Development is what allows me to transform simple into reality very easily.
+Development is what allows me to transform simple ideas into reality very easily.
 
 App needs a story. What is the story behind this app?
 
@@ -11,7 +11,7 @@ I'm a very self-conscious person with big ambitions and dreams. These two
 characteristics don't go hand in hand well so I have to improvise a lot to get
 where I want to be. One thing I do is I make apps to help me out with that.
 To-day is one of them and after using it for a couple of months (while building
-it) I decided to release it into the public and help others too. This is a
+it) I decided to release it into the public and maybe help others too. This is a
 special moment for me because I don't approve of a lot of things I make.
 
 How it helps me: I tried many to-do lists and they just don't seem to work for
@@ -20,13 +20,12 @@ make it work for me. First thing that came up was that once I put a task on the
 list, it just stays there until I mark it as complete or delete it.
 
 I didn't build To-day to not forget what to do, I built it to help get things
-done today. I tend to procrastinate a lot just because whenever I want to start
+done. I tend to procrastinate a lot just because whenever I want to start
 working on something I get the feeling that it's gonna be irrelevant. Reading
 through one of the countless articles about how to fight procrastination I tried
-experimenting with writing down what I need to do since it should increase the
-chance of getting it done because you visualize it. So I took that approach and
-started building an app around the idea of writing down tasks you need to do
-and complete them.
+experimenting with writing down what I need to do since it should help you get
+it done. So I took that approach and started building an app around the idea of
+writing down tasks you need to do.
 
 Next thing that was important is I don't want to have my list cluttered the next
 day with all the tasks from yesterday and before that. That's where the idea
@@ -36,3 +35,17 @@ completing the task today because tomorrow it will be gone. And since I hate the
 feeling of setting something for the day and not completing it it motivates me
 to complete it before the list resets and I can go to sleep with a good feeling
 because I did everything I set out to do today.
+
+Blogpost outline:
+
+- story behind it
+- how it helps me
+- presentation
+
+Story:
+I'm a very self-conscious person with big ambitions and dreams. These two
+characteristics don't go hand in hand well so I have to improvise a lot to get
+where I want to be. A thing I do a lot is just brainstorm why I don't get the
+results I'm aiming for and how to improve that. Once I get an idea on what I
+think could help me, I start thinking about what kind of app I could build for
+it.
