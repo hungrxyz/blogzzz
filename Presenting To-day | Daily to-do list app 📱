@@ -56,14 +56,30 @@ The sole purpose of this app is to write down the thing you need to do and do it
 
 Introducing To-day, daily to-do list app,
 
-What is about? The one sole purpose of this app is to write down the things you need to do to today and get them done.
+The one sole purpose of this app is to write down the things you need to do to today and get them done.
 
-Key feature of the app is that the list resets every morning so you don't need to remove all the tasks from the days before. It also acts as a deadline because once 5 AM hits the clock, tasks are stored away without the option to edit them. I don't know about you but I absolutely hate the feeling of not doing the things that I set out to do. With To-day I sort of force myself into the position of do it or feel bad looking at that bold unstrikedthrough task on the top of the list.
+I started working on To-day about 4 months ago. Idea behind it was to make
+a tool that helps people like me be more conscious about the things they 
+need/want to get done. It seemed like a desperate attempt at the beginning but
+proved to be highly efficient a few weeks later. Turns out I'm very much likely
+to do a task if I see it written down, plus there's that satisfying feeling at
+the end where you get to mark it as done. Ahh, what a great feeling that is! 🙌
 
-A bit about the functionality. The app uses simple swipe gestures to perform most of the actions.
+Key feature of the app is that the list resets every morning so you don't have
+to remove all the tasks from the days before. It also acts as a deadline because
+once 5 AM hits the clock, tasks are stored away without the option to edit them.
+I don't know about you but I absolutely hate the feeling of not doing the things
+that I set out to do. With To-day I sort of force myself into the position of 'do
+it or feel bad', looking at that bold unstriked-through task on the top of the list.
 
-By pulling the list down and releasing, when it says "release to add new task", new task will be added to the top of the list and the keyboard will slide up for you to title it. For convenience you can add a new task while adding a new task.
+A bit about the functionality. The app uses simple swipe gestures to perform
+most of the actions.
 
-Swiping right on a task will mark the task as done or undone, depending on the current state. If you swipe to the right the way, the task will be deleted.
+By pulling the list down and releasing, when it says "release to add new task",
+new task will be added to the top of the list and the keyboard will slide up for
+you to title it. For convenience you can add a new task while adding a new task.
 
-And to edit the name of the task, just tap on it.
+Swiping right on a task will mark the task as done or undone, depending on the
+current state. If you swipe all the way to the right, task will be deleted.
+
+And to edit the title of the task, just tap on it.
