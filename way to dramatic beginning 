@@ -35,6 +35,8 @@ but more a get-done list.
 - How it doesn't stop by just writing it down
 
 There were different aspects considered when designing this app:
+
+App flow
 1. Write it down
 By writing down the task you create a physical copy of it, which means you now
 have an actual object to work with. Now having it on the get-done list means
@@ -50,3 +52,10 @@ you are working on a very big project.
 Completing a task gives you a satisfying feeling and a sense of accomplishment.
 It is very addicting so which means you will want to add more tasks to the list
 and even complete all of them.
+
+Today widget
+In the latest update the app got richer for a today widget and a redesigned
+"pull to add task" mechanism. Today widget allows you to mark tasks as done/undone
+without even opening the app or you can just use it to open the app.
+
+Redesigned "pull to add task"
